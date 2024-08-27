@@ -6,7 +6,7 @@ const chalk = require('chalk')
 //contact details
 global.ownernomer = "254746764468"
 global.ownername = "ARLODRAGON"
-global.ytname = "DRAGON_BUGBOT-V1"
+global.ytname = "☢️DRAGON_BUGBOT-V1☢️"
 global.socialm = "GitHub: kingdragony"
 global.location = "Africa, kenya, Bomet"
 
